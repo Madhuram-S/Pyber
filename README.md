@@ -2,7 +2,7 @@
 ## Ride analysis
 
 ### Key information used for analysis
-The detailed information of all drivers and all historic ride with information destination (city), time of ride, fare charged is considered for this analysis. In addition, the data is divided into 3 market segmentation, namely, Urban, Suburban and Rural.
+The detailed information of all drivers and all historic ride with information on destination (city), time of ride, fare charged is considered for this analysis. In addition, the data is divided into 3 market segmentation, namely, Urban, Suburban and Rural.
 
 ### Analysis conducted
 The analysis explores how the Pyber has performed across the three market segments(Urban, Suburban and Rural) in the below areas
